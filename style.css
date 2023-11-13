@@ -117,12 +117,12 @@ span {
 
 .social-links {
   margin-left: 8%;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .social-links a {
   font-size: 30px;
-  color: var(--secondary-colo);
+  color: var(--secondary-color);
   margin-right: 20px;
 }
 
